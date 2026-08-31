@@ -1,3 +1,5 @@
+// Desenvolvido por Guilherme Bertero e Guilherme Francisco
+
 public class TestAuthor {
     public static void main(String[] args){
         Author a = new Author("Marcos Antônio", "marcosa20@example.com", 'M');
