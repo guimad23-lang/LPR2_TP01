@@ -1,3 +1,5 @@
+// Desenvolvido por Guilherme Bertero e Guilherme Francisco
+
 public class Person {
     private String name;
     private String address;
