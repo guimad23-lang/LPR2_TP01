@@ -1,3 +1,5 @@
+// Desenvolvido por Guilherme Bertero e Guilherme Francisco
+
 public class Author{
 	private String name;
 	private String email;
