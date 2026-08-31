@@ -1,3 +1,5 @@
+// Desenvolvido por Guilherme Bertero e Guilherme Francisco
+
 public class TestBook {
     public static void main(String[] args) {
         Author[] authors = new Author[2];
