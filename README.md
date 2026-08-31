@@ -4,4 +4,4 @@ Trabalho prático da disciplina de Linguagem de Programação 2 do curso de Aná
 
 O vídeo de demonstração dos testes está disponível no link:
 
-https://drive.google.com/file/d/1MNOpg9dy-Jxi0h_mvZUF9SCiOmc3N-qe/view?usp=drivesdk
+https://drive.google.com/file/d/1Sr4bS-OU9TJDhGQknWgI6c9Arby4-0EO/view?usp=sharing
