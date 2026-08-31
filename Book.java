@@ -1,3 +1,5 @@
+// Desenvolvido por Guilherme Bertero e Guilherme Francisco
+
 public class Book {
     private String name;
     private Author[] authors;
